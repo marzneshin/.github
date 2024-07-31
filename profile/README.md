@@ -12,3 +12,5 @@
 -->
 
 Marzneshin is a censorship circumvention software.
+
+- [Documentation](https://docs.marzneshin.org)
